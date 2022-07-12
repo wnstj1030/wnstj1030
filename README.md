@@ -1,11 +1,11 @@
-<h2 align="center"> 🎇 Me 🎇 </h2>
+<h2 align="center">  Me  </h2>
 <br>
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true" width="45%"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225" width="36.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wnstj1030&show_icons=true" width="45%"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj061030" width="36.5%"/>
 </div>
 <br>
 
-<h3 align="center"> 💌 SNS 💌 </h3>
+<h3 align="center">  SNS  </h3>
 <div align="center">
 <a href="https://www.instagram.com/edwrjioe_s"><img src="https://img.shields.io/badge/Instagram-%23fc1eb6.svg?style=flat&logo=Instagram&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/김준서%232088-%237289DA.svg?style=flat&logo=discord&logoColor=white"/>
